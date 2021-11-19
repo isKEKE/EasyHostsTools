@@ -12,8 +12,7 @@
 - `./code/github.py`
 
 #### 使用方式
-- 
-![d115de53c33fda9c4bd9462d4e1d3f0](https://user-images.githubusercontent.com/79039331/142614716-3b83dcff-80fd-4233-88de-578bd3bae04a.png)
+- ![d115de53c33fda9c4bd9462d4e1d3f0](https://user-images.githubusercontent.com/79039331/142614716-3b83dcff-80fd-4233-88de-578bd3bae04a.png)
 
 #### 开发者
 > 珂珂
