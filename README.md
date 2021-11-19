@@ -1,7 +1,7 @@
 ## EasyHostsTools
 简易Github-hosts更新工具
 ### 前言
-    此脚本是为了懒人而开发；功能：自动更新微软系统hosts中github的ip。
+    此脚本是为了懒人(作者)而开发；功能：自动更新微软系统hosts中github的ip。
 
 #### 开发环境
 - python3.8+
